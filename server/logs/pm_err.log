@@ -1,0 +1,306 @@
+2018-01-23 10:39 +08:00: [ioredis] Unhandled error event: Error: read ECONNRESET
+    at _errnoException (util.js:1024:11)
+    at TCP.onread (net.js:615:25)
+2018-01-23 10:39 +08:00: [ioredis] Unhandled error event: Error: read ECONNRESET
+    at _errnoException (util.js:1024:11)
+    at TCP.onread (net.js:615:25)
+E:\git\argus-web\server\routes\login.js:38
+    }
+    ^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (E:\git\argus-web\server\app.js:32:13)
+    at Module._compile (module.js:635:30)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+E:\git\argus-web\server\routes\login.js:38
+    }
+    ^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (E:\git\argus-web\server\app.js:32:13)
+    at Module._compile (module.js:635:30)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+E:\git\argus-web\server\routes\login.js:38
+    }
+    ^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (E:\git\argus-web\server\app.js:32:13)
+    at Module._compile (module.js:635:30)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+E:\git\argus-web\server\routes\login.js:38
+    }
+    ^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (E:\git\argus-web\server\app.js:32:13)
+    at Module._compile (module.js:635:30)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+E:\git\argus-web\server\routes\login.js:38
+    }
+    ^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (E:\git\argus-web\server\app.js:32:13)
+    at Module._compile (module.js:635:30)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+E:\git\argus-web\server\routes\login.js:38
+    }
+    ^
+
+SyntaxError: missing ) after argument list
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:599:28)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (E:\git\argus-web\server\app.js:32:13)
+    at Module._compile (module.js:635:30)
+    at Object.Module._extensions..js (module.js:646:10)
+    at Module.load (module.js:554:32)
+    at tryModuleLoad (module.js:497:12)
+    at Function.Module._load (module.js:489:3)
+    at Module.require (module.js:579:17)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+ReplyError: ERR wrong number of arguments for 'lpush' command
+    at JavascriptRedisParser.returnError (E:\git\argus-web\server\node_modules\ioredis\lib\redis\parser.js:24:25)
+    at JavascriptRedisParser.execute (E:\git\argus-web\server\node_modules\redis-parser\lib\parser.js:572:12)
+    at Socket.<anonymous> (E:\git\argus-web\server\node_modules\ioredis\lib\redis\event_handler.js:107:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:594:20)
+From previous event:
+    at Command.initPromise (E:\git\argus-web\server\node_modules\ioredis\lib\command.js:63:18)
+    at new Command (E:\git\argus-web\server\node_modules\ioredis\lib\command.js:51:8)
+    at Redis.lpush (E:\git\argus-web\server\node_modules\ioredis\lib\commander.js:131:29)
+    at redis.llen (E:\git\argus-web\server\services\alert.js:39:27)
+    at runCallback (timers.js:789:20)
+    at tryOnImmediate (timers.js:751:5)
+    at processImmediate [as _immediateCallback] (timers.js:722:5)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+ReplyError: ERR wrong number of arguments for 'lpush' command
+    at JavascriptRedisParser.returnError (E:\git\argus-web\server\node_modules\ioredis\lib\redis\parser.js:24:25)
+    at JavascriptRedisParser.execute (E:\git\argus-web\server\node_modules\redis-parser\lib\parser.js:572:12)
+    at Socket.<anonymous> (E:\git\argus-web\server\node_modules\ioredis\lib\redis\event_handler.js:107:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:594:20)
+From previous event:
+    at Command.initPromise (E:\git\argus-web\server\node_modules\ioredis\lib\command.js:63:18)
+    at new Command (E:\git\argus-web\server\node_modules\ioredis\lib\command.js:51:8)
+    at Redis.lpush (E:\git\argus-web\server\node_modules\ioredis\lib\commander.js:131:29)
+    at redis.llen (E:\git\argus-web\server\services\alert.js:39:27)
+    at runCallback (timers.js:789:20)
+    at tryOnImmediate (timers.js:751:5)
+    at processImmediate [as _immediateCallback] (timers.js:722:5)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+ReplyError: ERR wrong number of arguments for 'lpush' command
+    at JavascriptRedisParser.returnError (E:\git\argus-web\server\node_modules\ioredis\lib\redis\parser.js:24:25)
+    at JavascriptRedisParser.execute (E:\git\argus-web\server\node_modules\redis-parser\lib\parser.js:572:12)
+    at Socket.<anonymous> (E:\git\argus-web\server\node_modules\ioredis\lib\redis\event_handler.js:107:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:594:20)
+From previous event:
+    at Command.initPromise (E:\git\argus-web\server\node_modules\ioredis\lib\command.js:63:18)
+    at new Command (E:\git\argus-web\server\node_modules\ioredis\lib\command.js:51:8)
+    at Redis.lpush (E:\git\argus-web\server\node_modules\ioredis\lib\commander.js:131:29)
+    at redis.llen (E:\git\argus-web\server\services\alert.js:39:27)
+    at runCallback (timers.js:789:20)
+    at tryOnImmediate (timers.js:751:5)
+    at processImmediate [as _immediateCallback] (timers.js:722:5)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+ReplyError: ERR wrong number of arguments for 'lpush' command
+    at JavascriptRedisParser.returnError (E:\git\argus-web\server\node_modules\ioredis\lib\redis\parser.js:24:25)
+    at JavascriptRedisParser.execute (E:\git\argus-web\server\node_modules\redis-parser\lib\parser.js:572:12)
+    at Socket.<anonymous> (E:\git\argus-web\server\node_modules\ioredis\lib\redis\event_handler.js:107:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:594:20)
+From previous event:
+    at Command.initPromise (E:\git\argus-web\server\node_modules\ioredis\lib\command.js:63:18)
+    at new Command (E:\git\argus-web\server\node_modules\ioredis\lib\command.js:51:8)
+    at Redis.lpush (E:\git\argus-web\server\node_modules\ioredis\lib\commander.js:131:29)
+    at redis.llen (E:\git\argus-web\server\services\alert.js:39:27)
+    at runCallback (timers.js:789:20)
+    at tryOnImmediate (timers.js:751:5)
+    at processImmediate [as _immediateCallback] (timers.js:722:5)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+ReplyError: ERR wrong number of arguments for 'lpush' command
+    at JavascriptRedisParser.returnError (E:\git\argus-web\server\node_modules\ioredis\lib\redis\parser.js:24:25)
+    at JavascriptRedisParser.execute (E:\git\argus-web\server\node_modules\redis-parser\lib\parser.js:572:12)
+    at Socket.<anonymous> (E:\git\argus-web\server\node_modules\ioredis\lib\redis\event_handler.js:107:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:594:20)
+From previous event:
+    at Command.initPromise (E:\git\argus-web\server\node_modules\ioredis\lib\command.js:63:18)
+    at new Command (E:\git\argus-web\server\node_modules\ioredis\lib\command.js:51:8)
+    at Redis.lpush (E:\git\argus-web\server\node_modules\ioredis\lib\commander.js:131:29)
+    at redis.llen (E:\git\argus-web\server\services\alert.js:39:27)
+    at runCallback (timers.js:789:20)
+    at tryOnImmediate (timers.js:751:5)
+    at processImmediate [as _immediateCallback] (timers.js:722:5)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+ReplyError: ERR wrong number of arguments for 'lpush' command
+    at JavascriptRedisParser.returnError (E:\git\argus-web\server\node_modules\ioredis\lib\redis\parser.js:24:25)
+    at JavascriptRedisParser.execute (E:\git\argus-web\server\node_modules\redis-parser\lib\parser.js:572:12)
+    at Socket.<anonymous> (E:\git\argus-web\server\node_modules\ioredis\lib\redis\event_handler.js:107:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:594:20)
+From previous event:
+    at Command.initPromise (E:\git\argus-web\server\node_modules\ioredis\lib\command.js:63:18)
+    at new Command (E:\git\argus-web\server\node_modules\ioredis\lib\command.js:51:8)
+    at Redis.lpush (E:\git\argus-web\server\node_modules\ioredis\lib\commander.js:131:29)
+    at redis.llen (E:\git\argus-web\server\services\alert.js:39:27)
+    at runCallback (timers.js:789:20)
+    at tryOnImmediate (timers.js:751:5)
+    at processImmediate [as _immediateCallback] (timers.js:722:5)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+ReplyError: ERR wrong number of arguments for 'lpush' command
+    at JavascriptRedisParser.returnError (E:\git\argus-web\server\node_modules\ioredis\lib\redis\parser.js:24:25)
+    at JavascriptRedisParser.execute (E:\git\argus-web\server\node_modules\redis-parser\lib\parser.js:572:12)
+    at Socket.<anonymous> (E:\git\argus-web\server\node_modules\ioredis\lib\redis\event_handler.js:107:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:594:20)
+From previous event:
+    at Command.initPromise (E:\git\argus-web\server\node_modules\ioredis\lib\command.js:63:18)
+    at new Command (E:\git\argus-web\server\node_modules\ioredis\lib\command.js:51:8)
+    at Redis.lpush (E:\git\argus-web\server\node_modules\ioredis\lib\commander.js:131:29)
+    at redis.llen (E:\git\argus-web\server\services\alert.js:41:27)
+    at runCallback (timers.js:789:20)
+    at tryOnImmediate (timers.js:751:5)
+    at processImmediate [as _immediateCallback] (timers.js:722:5)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+ReplyError: ERR wrong number of arguments for 'lpush' command
+    at JavascriptRedisParser.returnError (E:\git\argus-web\server\node_modules\ioredis\lib\redis\parser.js:24:25)
+    at JavascriptRedisParser.execute (E:\git\argus-web\server\node_modules\redis-parser\lib\parser.js:572:12)
+    at Socket.<anonymous> (E:\git\argus-web\server\node_modules\ioredis\lib\redis\event_handler.js:107:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:594:20)
+From previous event:
+    at Command.initPromise (E:\git\argus-web\server\node_modules\ioredis\lib\command.js:63:18)
+    at new Command (E:\git\argus-web\server\node_modules\ioredis\lib\command.js:51:8)
+    at Redis.lpush (E:\git\argus-web\server\node_modules\ioredis\lib\commander.js:131:29)
+    at redis.llen (E:\git\argus-web\server\services\alert.js:42:31)
+    at runCallback (timers.js:789:20)
+    at tryOnImmediate (timers.js:751:5)
+    at processImmediate [as _immediateCallback] (timers.js:722:5)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+ReplyError: ERR wrong number of arguments for 'lpush' command
+    at JavascriptRedisParser.returnError (E:\git\argus-web\server\node_modules\ioredis\lib\redis\parser.js:24:25)
+    at JavascriptRedisParser.execute (E:\git\argus-web\server\node_modules\redis-parser\lib\parser.js:572:12)
+    at Socket.<anonymous> (E:\git\argus-web\server\node_modules\ioredis\lib\redis\event_handler.js:107:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:594:20)
+From previous event:
+    at Command.initPromise (E:\git\argus-web\server\node_modules\ioredis\lib\command.js:63:18)
+    at new Command (E:\git\argus-web\server\node_modules\ioredis\lib\command.js:51:8)
+    at Redis.lpush (E:\git\argus-web\server\node_modules\ioredis\lib\commander.js:131:29)
+    at redis.llen (E:\git\argus-web\server\services\alert.js:42:31)
+    at runCallback (timers.js:789:20)
+    at tryOnImmediate (timers.js:751:5)
+    at processImmediate [as _immediateCallback] (timers.js:722:5)
+2018-01-25 16:06 +08:00: [ioredis] Unhandled error event: Error: read ECONNRESET
+    at _errnoException (util.js:1024:11)
+    at TCP.onread (net.js:615:25)
