@@ -18,7 +18,7 @@ let wechat_redis_db = 0                    //
 let wechat_redis_password = $WECHATREDISPASSWD // t
 let wechat_api_host = $WECHATAPIHOST     // the wechat web service ip
 //let wechat_qrcode_path = '/argus-internal/controller/create_qrcode?username='
-let wechat_qrcode_path = $QRCODEURL
+let wechat_qrcode_path = $WECHATQRCODEURL
 let wechat_redis_channel = $WECHATREDISCHAN
 let session_redis_host = $REDISHOST
 let session_redis_port = $REDISPORT
