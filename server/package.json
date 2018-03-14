@@ -4,7 +4,7 @@
     "private": true,
     "scripts": {
         "dev": "pm2 start ecosystem.config.js --only node_test",
-        "start": "pm2 start ecosystem.config.js --only node_app",
+        "start": "pm2 start ecosystem.config.js --only node_app --no-daemon",
         "sim_start": "node ./bin/www.js"
     },
     "dependencies": {
