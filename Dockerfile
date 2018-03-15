@@ -3,7 +3,7 @@ MAINTAINER chenjunhong@useease.com
 
 ## The below part is all the env need to config the server ,for the default value 
 
-# ENV server /argus-web/server
+ENV server /argus-web/server
 # ENV OPENTSDBHOST ""
 # ENV OPENTSDBPORT 0
 #  Argus Collector Manager settings
