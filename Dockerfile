@@ -6,6 +6,7 @@ RUN mkdir -p /argus-web/server
 ## TODO: copy the code from hard disk temporary , to be change into git clone 
 ADD server/  /argus-web/server
 ADD ./entrypoint.sh $server 
+RUN chmod +x ${server}/entrypoint.sh
 WORKDIR $server
 ## replace the npm with cnpm for some well-known reason
 RUN npm install -g cnpm --registry=https://registry.npm.taobao.org
@@ -17,7 +18,5 @@ RUN  cnpm install -g pm2 \
 #       && npm install
 
 EXPOSE 8080
-# CMD ['npm','run','start']
-# ENTRYPOINT [ "entrypoint.sh" ]
-RUN sh entrypoint.sh
-CMD node ./bin/www.js
+ENTRYPOINT [ "entrypoint.sh" ]
+# CMD node ./bin/www.js
