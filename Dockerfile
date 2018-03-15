@@ -18,4 +18,6 @@ RUN  cnpm install -g pm2 \
 
 EXPOSE 8080
 # CMD ['npm','run','start']
-ENTRYPOINT [ "entrypoint.sh" ]
+# ENTRYPOINT [ "entrypoint.sh" ]
+RUN sh entrypoint.sh
+CMD node ./bin/www.js
